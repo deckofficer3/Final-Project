@@ -157,14 +157,14 @@ ul#nav li.current a, ul#nav li:hover a
   padding-top: 20px;}
   
 .slideshow
-{ width: 940px;
+{ width: 500px;
   height: 250px;
   margin: 0 auto;}  
   
 /* styling for the slideshow on the homepage */
 ul.slideshow {
   list-style: none;
-  width: 940px;
+  width: 500px;
   height: 250px;
   overflow: hidden;
   position: relative;}
